@@ -1,5 +1,31 @@
 [
   {
+    "tag_name": "v0.58.16",
+    "draft": false,
+    "prerelease": true,
+    "body": "这次加了软件内更新。\r\n\r\n打开控制中心 → 更新与关于，就能检查、下载新版；下载完成后点“更新并重启”。全功能版和精简版会各自更新，原来的外观、快捷方式和自启设置保留。\r\n\r\n自动检查可以关闭，试用版更新也能单独选择。后台检查不会弹窗打断游戏，什么时候安装由你决定。网络不通时，也可以照常使用，或到这里手动下载安装包。\r\n\r\n第一次请先正常退出旧版，再安装下面两个版本中的一个。装好这一版之后，后续更新就有软件内入口了。\r\n\r\n- 全功能版：保留全部桌面工具与 AI 面板。\r\n- 精简版：保留任务栏、小魔女、应用启动、搜索、音量和音乐控制。\r\n\r\n适用于 Windows 10 / 11 64 位。",
+    "assets": [
+      {
+        "name": "magic-pocket-0.58.16-full.exe",
+        "size": 271282864,
+        "digest": "sha256:e12221afc05b462a9b54844131267f0db83836c4c5367068692b802f0412d584",
+        "browser_download_url": "https://github.com/wtolddd/magic-pocket/releases/download/v0.58.16/magic-pocket-0.58.16-full.exe"
+      },
+      {
+        "name": "magic-pocket-0.58.16-lite.exe",
+        "size": 54349726,
+        "digest": "sha256:f471666898db099f2f9fe02b79145a6ee694445d653419f92628683707737c58",
+        "browser_download_url": "https://github.com/wtolddd/magic-pocket/releases/download/v0.58.16/magic-pocket-0.58.16-lite.exe"
+      },
+      {
+        "name": "SHA256SUMS.txt",
+        "size": 194,
+        "digest": "sha256:7cf0a81d2a8bfc5b2f0a89ff2c4741115078703d6b67e94eb66659b11f1f18f0",
+        "browser_download_url": "https://github.com/wtolddd/magic-pocket/releases/download/v0.58.16/SHA256SUMS.txt"
+      }
+    ]
+  },
+  {
     "tag_name": "v0.58.15",
     "draft": false,
     "prerelease": true,
