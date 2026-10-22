@@ -4,7 +4,7 @@
 
 魔女口袋是一套 Windows 桌面工具。玻璃任务栏负责常用操作，小魔女陪你打开应用，音乐舞台让曲名、封面和播放按钮留在手边。外观、动效和舞台都可以按自己的习惯调整。
 
-[下载安装包](https://github.com/wtolddd/magic-pocket/releases) · [查看更新](https://github.com/wtolddd/magic-pocket/releases/tag/v0.58.15) · [反馈问题](https://github.com/wtolddd/magic-pocket/issues)
+[下载安装包](https://github.com/wtolddd/magic-pocket/releases) · [查看更新](https://github.com/wtolddd/magic-pocket/releases/tag/v0.58.16) · [反馈问题](https://github.com/wtolddd/magic-pocket/issues)
 
 适用于 **Windows 10 / 11，64 位**。
 
@@ -47,17 +47,17 @@
 ## 安装与更新
 
 1. 下载并运行安装包，按提示选择安装位置。
-2. 更新时，先从托盘正常退出旧版，再安装新版；已有设置会保留。
+2. 从 0.58.15 或更早版本更新时，先从托盘正常退出，再安装这一版。以后可以在“控制中心 → 更新与关于”下载新版，准备好后点“更新并重启”。
 3. 启动后在控制中心选择外观、音乐舞台和动效。需要随开机使用时，再开启自动启动；也可以选择“登录即启动”。
 
-## 最近更新 · 0.58.15
+## 最近更新 · 0.58.16
 
-- “未分类”支持改名，分类内的应用和固定项保持原样。
-- 应用名称优先跟随 Windows 显示的快捷方式名称，读取失败时使用文件名。
-- 调整 BongoCat 桌宠画面在底栏中的显示。
-- 加入登录即启动选项，保留普通自启方式。
+- 控制中心增加软件内更新：检查版本、查看说明、下载和重启安装。
+- 全功能和精简版分别匹配，保留设置和自启选择。
+- 自动检查可以关闭；试用版更新也有单独开关。
+- 后台检查不弹窗打断游戏，下载后由你决定安装时间。
 
-[完整更新记录与安装包](https://github.com/wtolddd/magic-pocket/releases/tag/v0.58.15)
+[完整更新记录与安装包](https://github.com/wtolddd/magic-pocket/releases/tag/v0.58.16)
 
 ## 一起把它做好用
 
