@@ -1,0 +1,28 @@
+[
+  {
+    "tag_name": "v0.58.15",
+    "draft": false,
+    "prerelease": true,
+    "body": "分类改名、快捷方式名称与桌宠显示调整。",
+    "assets": [
+      {
+        "name": "magic-pocket-0.58.15-full.exe",
+        "size": 271268450,
+        "digest": "sha256:bc1092997ad58c4988fad40aa1d4c2e9e0aaebdb118fd660f3e275c31bf0d0de",
+        "browser_download_url": "https://github.com/wtolddd/magic-pocket/releases/download/v0.58.15/magic-pocket-0.58.15-full.exe"
+      },
+      {
+        "name": "magic-pocket-0.58.15-lite.exe",
+        "size": 54335903,
+        "digest": "sha256:fb38068c9ff5c492074268cb86c177ec5e0e6a38d7089d1c1390e99c207bcef2",
+        "browser_download_url": "https://github.com/wtolddd/magic-pocket/releases/download/v0.58.15/magic-pocket-0.58.15-lite.exe"
+      },
+      {
+        "name": "SHA256SUMS.txt",
+        "size": 194,
+        "digest": "sha256:571a531ef6d037ddfb3d993321d8748316becf2e8f4043da78a9938c7d491a0a",
+        "browser_download_url": "https://github.com/wtolddd/magic-pocket/releases/download/v0.58.15/SHA256SUMS.txt"
+      }
+    ]
+  }
+]
