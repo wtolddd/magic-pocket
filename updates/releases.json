@@ -1,5 +1,31 @@
 [
   {
+    "tag_name": "v0.58.21",
+    "draft": false,
+    "prerelease": true,
+    "body": "这次把底栏和应用整理补得更顺手了一些。\n\n- 图标可以改名了：在应用抽屉或已固定的底栏图标上点右键，选择“重命名”。改名会保存，也能用新名字和拼音搜索；抽屉里可以右键恢复原名。\n- 底栏增加“预留空间”：默认开启，供资源管理器等应用安排窗口和菜单时避开底栏。在“控制中心 → 角色与音乐”可以关闭，切回悬浮显示。\n- 全屏呼出快捷键可以自己设置，默认 F9。按一次固定显示底栏，再按一次或 Esc 收起；退出全屏、切换应用后恢复自动隐藏。\n- 调整了游戏里按 Win 时的底栏和开始菜单位置。\n\n更新后原来的外观、快捷方式和自启设置会保留。已经用上软件内更新的朋友，可以到“控制中心 → 更新与关于”检查，并开启“接收试用版更新”；也可以在下面下载对应安装包。\n\n全功能版和精简版选一个即可，适用于 Windows 10 / 11 64 位。这是试用版，遇到菜单遮挡、游戏中呼出或快捷键冲突，欢迎在 Issues 留下使用情况。\n",
+    "assets": [
+      {
+        "name": "magic-pocket-0.58.21-full.exe",
+        "size": 271256979,
+        "digest": "sha256:8c5ee6b550395d4e077de17c32e08ae4e88b65aeac7f43a9a910f2f604d9a077",
+        "browser_download_url": "https://github.com/wtolddd/magic-pocket/releases/download/v0.58.21/magic-pocket-0.58.21-full.exe"
+      },
+      {
+        "name": "magic-pocket-0.58.21-lite.exe",
+        "size": 54360676,
+        "digest": "sha256:2a496c3d20247b791ce1532018ae7d6efb65918a175f4f1c3068549fc24b6911",
+        "browser_download_url": "https://github.com/wtolddd/magic-pocket/releases/download/v0.58.21/magic-pocket-0.58.21-lite.exe"
+      },
+      {
+        "name": "SHA256SUMS.txt",
+        "size": 192,
+        "digest": "sha256:a5c3a2fdb8966856d5c7b63ac37116c89dbaa0ba4bae4163530227b9362d882a",
+        "browser_download_url": "https://github.com/wtolddd/magic-pocket/releases/download/v0.58.21/SHA256SUMS.txt"
+      }
+    ]
+  },
+  {
     "tag_name": "v0.58.16",
     "draft": false,
     "prerelease": true,
