@@ -1,5 +1,25 @@
 [
   {
+    "tag_name": "v0.58.27",
+    "draft": false,
+    "prerelease": true,
+    "body": "这次新增了天爱星角色，也把角色动作重新顺了一遍。\n\n- 在控制中心的“角色与动作”里选择天爱星，可以一起换上学生会风格的任务栏和事件外观。\n- 点击角色后直接睁眼、抬头进入思考，删去了中间多余的表情，到位就打开应用抽屉。\n- 修正天爱星换动作时突然变大的问题，两个角色共用同一套动作节奏。\n- 开启“应用最大化时也隐藏底栏”后，不再给隐藏的底栏留一条空白。\n\n这次更新全功能版，精简版继续使用 0.58.21。\n\n已经装过 0.58.16 或更新版本的朋友，打开“控制中心 → 更新与关于”，开启“接收试用版更新”，检查后下载，最后点“更新并重启”。原来的外观、快捷方式和自启设置会保留。更早版本请先手动安装一次。\n\n也可以下载下面的 full.exe 安装包，安装前先从托盘正常退出旧版。\n",
+    "assets": [
+      {
+        "name": "magic-pocket-0.58.27-full.exe",
+        "size": 273562191,
+        "digest": "sha256:6e1ebe16f0266f2f796ef238b90b9237727fda3a5499b92b417432f8956b07e1",
+        "browser_download_url": "https://github.com/wtolddd/magic-pocket/releases/download/v0.58.27/magic-pocket-0.58.27-full.exe"
+      },
+      {
+        "name": "SHA256SUMS.txt",
+        "size": 97,
+        "digest": "sha256:c2118565e7c7e5d21ac8e38bc6aae9a1c7b090c1b3bfd7678578c4cfcf08259c",
+        "browser_download_url": "https://github.com/wtolddd/magic-pocket/releases/download/v0.58.27/SHA256SUMS.txt"
+      }
+    ]
+  },
+  {
     "tag_name": "v0.58.21",
     "draft": false,
     "prerelease": true,
