@@ -4,7 +4,7 @@
 
 魔女口袋是一套 Windows 桌面工具。玻璃任务栏负责常用操作，小魔女陪你打开应用，音乐舞台让曲名、封面和播放按钮留在手边。外观、动效和舞台都可以按自己的习惯调整。
 
-[下载安装包](https://github.com/wtolddd/magic-pocket/releases) · [查看更新](https://github.com/wtolddd/magic-pocket/releases/tag/v0.58.29) · [反馈问题](https://github.com/wtolddd/magic-pocket/issues)
+[下载安装包](https://github.com/wtolddd/magic-pocket/releases) · [查看更新](https://github.com/wtolddd/magic-pocket/releases/tag/v0.58.30) · [反馈问题](https://github.com/wtolddd/magic-pocket/issues)
 
 适用于 **Windows 10 / 11，64 位**。
 
@@ -50,16 +50,16 @@
 2. 从 0.58.15 或更早版本更新时，先从托盘正常退出，再安装这一版。以后可以在“控制中心 → 更新与关于”下载新版，准备好后点“更新并重启”。
 3. 启动后在控制中心选择外观、音乐舞台和动效。需要随开机使用时，再开启自动启动；也可以选择“登录即启动”。
 
-## 最近更新 · 0.58.29
+## 最近更新 · 0.58.30
 
-- 摸头加入低头、闭眼回应、轻微回正和双星反馈；连续摸时保持完整节奏，松手自然收尾。
-- 天爱星使用原图里的柔和表情，不再突然放大或反复闪切。
-- 修复 Win+D 显示桌面后角色消失的问题，恢复时不抢焦点，普通应用仍可盖住角色。
-- 保留学生会风格任务栏和直接抬头进入思考的动作。
+- 不同系统事件可以同时显示，连续调音量在原位置更新，不再相互覆盖或反复弹出。
+- 全屏下保留音量、静音、锁定键和设备短提示，底栏与角色仍按设置隐藏。
+- 操作面板时也能收到系统提示；快速开关锁定键不漏掉最后状态。
+- 包含摸头动作和 Win+D 后角色恢复的修复。
 
 本次更新全功能版，精简版仍为 0.58.21。软件内打开“控制中心 → 更新与关于”，开启“接收试用版更新”即可检查、下载，完成后点“更新并重启”。原设置会保留。
 
-[完整更新记录与安装包](https://github.com/wtolddd/magic-pocket/releases/tag/v0.58.29)
+[完整更新记录与安装包](https://github.com/wtolddd/magic-pocket/releases/tag/v0.58.30)
 
 ## 一起把它做好用
 
