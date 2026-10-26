@@ -1,5 +1,25 @@
 [
   {
+    "tag_name": "v0.58.31",
+    "draft": false,
+    "prerelease": true,
+    "body": "这次修了底栏的错误提示和窗口遮挡。\n\n- “找不到文件”之类的提示会在 6 秒后收起，也可以点右侧关闭；刷新底栏不会让同一条错误反复出现。\n- 失效快捷方式不再弹出一整段安装路径，普通软件也不再被叫作“游戏”。\n- 商店应用升级后旧路径失效，会尝试通过 Windows 应用目录打开当前版本；同一应用更新后也能匹配到已运行窗口。\n- 底栏失去层级时会恢复显示，避免图标被普通窗口挡住。全屏隐藏和截图仍然避让，不抢焦点。\n\n保留摸头、Win+D 角色恢复和多事件提示。全功能版在“控制中心 → 更新与关于”开启“接收试用版更新”，检查、下载后点“更新并重启”。精简版仍为 0.58.21。\n\n也可以下载下方 full.exe，先从托盘正常退出旧版再安装，原设置会保留。\n",
+    "assets": [
+      {
+        "name": "magic-pocket-0.58.31-full.exe",
+        "size": 273602213,
+        "digest": "sha256:8db8fbda27178a2a8583b3aa97d91601e8be724e93d4ce21ccd927f9b497f9f8",
+        "browser_download_url": "https://github.com/wtolddd/magic-pocket/releases/download/v0.58.31/magic-pocket-0.58.31-full.exe"
+      },
+      {
+        "name": "SHA256SUMS.txt",
+        "size": 97,
+        "digest": "sha256:5b8c5f9c02e80abce77f3255b3a8c78a7054f89b346ad7d47a5d5ec4b4316f1f",
+        "browser_download_url": "https://github.com/wtolddd/magic-pocket/releases/download/v0.58.31/SHA256SUMS.txt"
+      }
+    ]
+  },
+  {
     "tag_name": "v0.58.30",
     "draft": false,
     "prerelease": true,
